@@ -1,0 +1,30 @@
+{'The mean residuals from the run of 5 neural networks where L2 is multiplied by 1 is': 9.665300603955984e-05}
+{'The mean maximum deviation from the run of 5 neural networks where L2 is multiplied by 1 is': [0.021929615736007692]}
+{'The mean L1 norm from the run of 5 neural networks where L1 is multiplied by 1 is ': [1.9230520410928876e-05]}
+{'The mean L2 norm from the run of 5 neural networks where L2 is multiplied by 1 is ': [3.237646596971899e-05]}
+{'The mean L3 norm from the run of 5 neural networks where L3 is multiplied by 1 is ': [4.504601238295436e-05]}
+{'The standard deviation of the residuals from the run of the 5 neural networks where L2 is multiplied by 1 is:': 3.3949316e-05}
+{'The standard deviation of the maximum deviation from the run of 5 neural networks where L2 is multiplied by 1 is': 0.001073554}
+{'The standard deviation of the L1 norm from the run of 5 neural networks where L1 is multiplied by 1 is ': 4.8207717e-06}
+{'The standard deviation of the L2 norm from the run of 5 neural networks where L2 is multiplied by 1 is ': 5.162174e-06}
+{'The standards deviation of the L3 norm from the run of 5 neural networks where L3 is multiplied by 1 is ': 4.170115e-05}
+{'The mean residuals from the run of 5 neural networks where L2 is multiplied by 100 is': [0.00025168422143906355]}
+{'The mean maximum deviation from the run of 5 neural networks where L2 is multiplied by 100 is': [0.004590904712677002]}
+{'The mean L1 norm from the run of 5 neural networks where L1 is multiplied by 100 is ': [0.0001296432688832283]}
+{'The mean L2 norm from the run of 5 neural networks where L2 is multiplied by 100 is ': [2.474871280355728e-07]}
+{'The mean L3 norm from the run of 5 neural networks where L3 is multiplied by 100 is ': [9.729224839247764e-05]}
+{'The standard deviation of the residuals from the run of the 5 neural networks where L2 is multiplied by 100 is:': 4.5992536e-05}
+{'The standard deviation of the maximum deviation from the run of 5 neural networks where L2 is multiplied by 100 is': 0.0013133527}
+{'The standard deviation of the L1 norm from the run of 5 neural networks where L1 is multiplied by 100 is ': 2.4180981e-05}
+{'The standard deviation of the L2 norm from the run of 5 neural networks where L2 is multiplied by 100 is ': 2.3146086e-07}
+{'The standards deviation of the L3 norm from the run of 5 neural networks where L3 is multiplied by 100 is ': 2.870879e-05}
+{'The mean residuals from the run of 5 neural networks where L2 is multiplied by 1000 is': [0.0003429817035794258]}
+{'The mean maximum deviation from the run of 5 neural networks where L2 is multiplied by 1000 is': [0.0016516804695129394]}
+{'The mean L1 norm from the run of 5 neural networks where L1 is multiplied by 1000 is ': [0.0001639055786654353]}
+{'The mean L2 norm from the run of 5 neural networks where L2 is multiplied by 1000 is ': [1.3412130783763133e-08]}
+{'The mean L3 norm from the run of 5 neural networks where L3 is multiplied by 1000 is ': [0.0001656639971770346]}
+{'The standard deviation of the residuals from the run of the 5 neural networks where L2 is multiplied by 1000 is:': 0.0001843762}
+{'The standard deviation of the maximum deviation from the run of 5 neural networks where L2 is multiplied by 1000 is': 0.0007624278}
+{'The standard deviation of the L1 norm from the run of 5 neural networks where L1 is multiplied by 1000 is ': 4.533015e-05}
+{'The standard deviation of the L2 norm from the run of 5 neural networks where L2 is multiplied by 1000 is ': 1.7053962e-08}
+{'The standards deviation of the L3 norm from the run of 5 neural networks where L3 is multiplied by 1000 is ': 0.00012518738}
